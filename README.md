@@ -15,6 +15,6 @@ Możliwe ulepszenia:
 - przeniesienie plików zawierajacych dane do bazy danych <br>
 - dodanie opcji dla rejestracji nowych użytkowników (brakło czasu na to) <br>
 - dodanie opcji np. usuwania użytkowników, turniejów, wyświetlania tabeli z turniejami itd. <br>
-- Nazwwnictwo zmiennych, klas itd ujednolicone, po angielsku
+- Nazewnictwo zmiennych, klas itd ujednolicone, po angielsku
 <br> 
 Na ten moment nie planuję jednak wracać do tego projektu, skupiając się na innych, pisanych w C#. 
