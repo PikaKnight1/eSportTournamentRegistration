@@ -1,0 +1,5 @@
+admin;admin;2
+user;user;1
+pika;knight;1
+java;meh;1
+csharp;lepszy;2
